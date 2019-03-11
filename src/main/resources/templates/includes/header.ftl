@@ -20,7 +20,7 @@
         <#--  <h1 class="app-name brand"><a href="/">Kafdrop</a> <#if profile??><span class="small">${profile}</span></#if></h1>  -->
         <div class="powered-by-container">
             <p>Kafdrop powered by</p>
-            <p>Cocolevio</p>
+            <p>Redacted</p>
         </div>
     </div>
 </div>
